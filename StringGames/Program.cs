@@ -12,6 +12,13 @@ namespace StringGames
         {
             var pali = new Palindrome();
             var isPali = pali.Check("ana");
+
+            var fibbo = new Fibbo();
+            var fibboNumber = fibbo.GetNthNumber("5");
+
+            Console.WriteLine(isPali ? "Palindrome = true" : "Palindrome = false");
+            Console.WriteLine("Fibbo no.: " + fibboNumber);
+            Console.ReadKey();
         }
     }
 }
