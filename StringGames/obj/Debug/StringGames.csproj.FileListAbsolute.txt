@@ -1,0 +1,6 @@
+c:\users\bad robot\documents\visual studio 2013\Projects\StringGames\StringGames\bin\Debug\StringGames.exe.config
+c:\users\bad robot\documents\visual studio 2013\Projects\StringGames\StringGames\bin\Debug\StringGames.exe
+c:\users\bad robot\documents\visual studio 2013\Projects\StringGames\StringGames\bin\Debug\StringGames.pdb
+c:\users\bad robot\documents\visual studio 2013\Projects\StringGames\StringGames\obj\Debug\StringGames.csprojResolveAssemblyReference.cache
+c:\users\bad robot\documents\visual studio 2013\Projects\StringGames\StringGames\obj\Debug\StringGames.exe
+c:\users\bad robot\documents\visual studio 2013\Projects\StringGames\StringGames\obj\Debug\StringGames.pdb
